@@ -9,3 +9,8 @@
 #table{
     font-size: 32px;
 }
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
